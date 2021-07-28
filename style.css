@@ -1,0 +1,44 @@
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.header-bg {
+    background-color: #264653;
+    /* padding: 80px; */
+}
+
+.header-padding {
+    padding-top: 100px;
+}
+
+.text-bg {
+    color: #E0E0E0;
+}
+
+.btn-color {
+    background: #E76F51;
+    color: white;
+}
+
+.header-img {
+    margin-top: 150px;
+}
+
+
+.bikes {
+    width: 100%;
+}
+
+.fa-star {
+    color: #E77C40;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.clients {
+    width: 100%;
+}
