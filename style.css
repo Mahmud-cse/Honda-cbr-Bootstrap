@@ -9,7 +9,10 @@ body {
 
 .header-bg {
     background-color: #264653;
-    /* padding: 80px; */
+}
+
+.bike-bg {
+    margin-bottom: 100px;
 }
 
 .header-padding {
@@ -42,12 +45,21 @@ body {
     text-decoration: none;
 }
 
+.clients-bg {
+    margin-bottom: 130px;
+}
+
 .clients {
     width: 100%;
 }
 
 .accordion-all {
     width: 100%;
+    margin-bottom: 80px;
+}
+
+.learn-more {
+    margin-bottom: 80px;
 }
 
 
