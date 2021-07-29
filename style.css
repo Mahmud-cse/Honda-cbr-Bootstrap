@@ -22,10 +22,6 @@ body {
     color: white;
 }
 
-.header-img {
-    margin-top: 150px;
-}
-
 
 .bikes {
     width: 100%;
@@ -50,17 +46,31 @@ body {
 
 
 @media only screen and (min-width:768px) {
+    .header-img {
+        width: 100%;
+    }
+
     .accordion-modify {
-        margin-left: 150px;
-        margin-right: 150px;
+        margin-left: 180px;
+        margin-right: 180px;
+    }
+
+    .accordion-img {
+        width: 72%;
     }
 }
 
 @media only screen and (max-width:767px) {
+    .header-img {
+        width: 80%;
+        margin: auto;
+        display: block;
+    }
+
     .accordion-img {
         margin: auto;
         display: block;
-        width: 200px;
+        width: 350px;
         margin-top: 40px;
         margin-bottom: 40px;
     }
