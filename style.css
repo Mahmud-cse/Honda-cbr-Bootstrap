@@ -1,3 +1,6 @@
+/* --------------
+custom css 
+----------------*/
 body {
     overflow-x: hidden;
     margin: 0;
@@ -48,7 +51,10 @@ body {
 }
 
 
-
+/*-------------
+ Media Query
+--------------- */
+/* Responsive For Pixel and Desktop Both */
 @media only screen and (min-width:768px) {
     .header-img {
         width: 100%;
