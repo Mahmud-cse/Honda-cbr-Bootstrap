@@ -42,3 +42,26 @@ body {
 .clients {
     width: 100%;
 }
+
+.accordion-all {
+    width: 100%;
+}
+
+
+
+@media only screen and (min-width:768px) {
+    .accordion-modify {
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .accordion-img {
+        margin: auto;
+        display: block;
+        width: 200px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+}
